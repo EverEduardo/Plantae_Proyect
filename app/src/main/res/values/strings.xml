@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plantae_Proyect</string>
+    <string name="title_activity_barra_navegacion">BarraNavegacion</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Mis Plantas</string>
+    <string name="title_notifications">Tareas</string>
+    <string name="title_plagas">Plagas</string>
+    <string name="title_objetivos">Objetivos</string>
+
+</resources>
